@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/computech/Documents/Mine/DevOps/Azure DevOps Engineer Nanodegree/Practice/CI\CD/ci\cd'
+echo "this is my first make command"
+make: Leaving directory '/home/computech/Documents/Mine/DevOps/Azure DevOps Engineer Nanodegree/Practice/CI\CD/ci\cd'
+ 
