@@ -30,9 +30,9 @@ steps:
     pip install -r requirements.txt
   displayName: 'Install dependencies'
 
-- script: |
-    make all
-  displayName: 'Makefile'
+# - script: |
+#     make all
+#   displayName: 'Makefile'
 
 - script: |
     pip install pytest pytest-azurepipelines
